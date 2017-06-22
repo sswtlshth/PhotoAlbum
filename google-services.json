@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "193153935815",
+    "firebase_url": "https://loginsqllite.firebaseio.com",
+    "project_id": "loginsqllite",
+    "storage_bucket": "loginsqllite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193153935815:android:1c389d509857cb21",
+        "android_client_info": {
+          "package_name": "app.com.loginsqllite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193153935815-vbi98hv5gq7rqd993mpdfn7iu8evaafj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.com.loginsqllite",
+            "certificate_hash": "d6b8dd63417430122d32d65ee4a0ab14c35d3599"
+          }
+        },
+        {
+          "client_id": "193153935815-9a5flr3v889h2mcknk04rfudpuhmn33f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAHseujhPtvGosO_jeXcKgmvsAuS1nAcQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193153935815-9a5flr3v889h2mcknk04rfudpuhmn33f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
